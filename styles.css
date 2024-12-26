@@ -207,3 +207,10 @@ body.dark #mode_icon {
 body.dark .input-group input {
     color: #ffffff;
 } 
+
+footer {
+    margin-top: 5px;
+    text-align: center;
+    font-weight: 400;
+    font-style: italic;
+}
