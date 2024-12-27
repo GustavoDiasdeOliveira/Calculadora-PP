@@ -214,3 +214,18 @@ footer {
     font-weight: 400;
     font-style: italic;
 }
+
+footer a {
+    text-decoration: none;
+    display: inline-block;
+    transition: 0.3s ease; 
+}
+
+footer a:hover {
+    transform: scale(1.2);
+}
+
+footer i {
+    font-size: 33px;
+    color: #1a171af1;
+}
